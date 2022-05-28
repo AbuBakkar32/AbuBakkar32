@@ -15,6 +15,7 @@ Django, REST-APIs (DRF), Web Scraping, Machine Learning, Pandas, Numpy, Matplotl
 situation. I have done my work with a responsibility and my passion. I have a patience and it keep at any hard condition [Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)
 
 <!--![]()-->
+<br>
 
 > - I’m interested in Python, Deep Learning, Machine Learning, QA, Python Script and Django Web Framework.
 > - I’m currently working as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
@@ -23,6 +24,8 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 > - I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "nFuture Research Lab")
 > - **Fun fact**: I love Cooking and watching Science Fiction Movie.
 > - **I Love to play** : Cricket, Badminton and Pool
+
+<br>
 
 ##  _**GitHub Stats**_
 <br>
