@@ -15,11 +15,11 @@
 > - **Fun fact**: I love Cooking and watching Science Fiction Movie.
 > - **I Love to play** : Cricket, Badminton and Pool
 
-##  _**GitHub Stats**_
+## &#x1f4c8; GitHub Stats
 <br>
 
 <a href="https://github.com/abubakkar32">
-  <img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula">
+  <img style="display: inline; width: 450px;" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula">
 </a>
 
 <a href="https://github.com/abubakkar32">
