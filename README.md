@@ -7,9 +7,6 @@
   <img width="100" height="100" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=abubakkar32&color=FAC151)][1]
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/abubakkar32)
-
 
 Hey there 👋
 
