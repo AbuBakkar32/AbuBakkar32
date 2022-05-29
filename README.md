@@ -78,6 +78,6 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 
 ## 👨 Get In Touch
 
-<a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"><img align="left" src="https://www.flaticon.com/free-icons/facebook" width="21px"/></a>
+<a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"><img align="left" src="[https://www.flaticon.com/free-icons/facebook](https://github.com/AbuBakkar32/AbuBakkar32/tree/main/icons/facebook.png)" width="21px"/></a>
 
 
