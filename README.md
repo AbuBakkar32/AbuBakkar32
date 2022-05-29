@@ -6,7 +6,15 @@
 <p align="center">
   <img width="100" height="100" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
+<p align="center">
+  <a href="https://www.facebook.com/abubakkar32/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/facebook-org.png" width="23px"/> </a>
+<a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/linkedin.png" width="23px"/> </a>
+<a href="https://github.com/AbuBakkar32"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/github.png" width="23px"/> </a>
+<a href="https://scholar.google.com/citations?user=cbL9ODEAAAAJ&hl=en&authuser=1"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/scholar.png" width="23px"/> </a>
+<a href="https://drive.google.com/drive/u/0/folders/1K0ndEWNMArUbciXg3TpDtk6Sb4r1h8Y5"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/> </a>
+</p>
 
+<br>
 
 Hey there 👋
 
@@ -19,7 +27,7 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 <br>
 
 - 🔭 I’m interested in **Python, Deep Learning, Machine Learning, QA, Python Script and Django Web Framework**.
-- ⚡ I’m currently working as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
+- ⚡ I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
 - 🌱 Also Working with <a target="_blank" href="https://www.capitalone.com/"><b>American Capital One Bank</b></a> as a Quality Assurance Engineer and a Automation      Script Writer for <a target="_blank" href="https://www.capitalone.com/">Capital One</a>
 - 🛠 I’m working with **Apache Airflow, Google Cloud, AWS services and other cloud services**.
 - 📫 I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "nFuture Research Lab")
@@ -78,6 +86,5 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 
 ## 👨 Get In Touch
 
-<a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"><img align="left" src="[https://www.flaticon.com/free-icons/facebook](https://github.com/AbuBakkar32/AbuBakkar32/tree/main/icons/facebook.png)" width="21px"/></a>
 
 
