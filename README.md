@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/linkedin.png" width="23px"/> </a>
 <a href="https://github.com/AbuBakkar32"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/github.png" width="23px"/> </a>
 <a href="https://scholar.google.com/citations?user=cbL9ODEAAAAJ&hl=en&authuser=1"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/scholar.png" width="23px"/> </a>
-<a href="https://drive.google.com/drive/u/0/folders/1K0ndEWNMArUbciXg3TpDtk6Sb4r1h8Y5"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/> </a>
+<a href="https://drive.google.com/file/d/1WT-BpxRp8L-w0i6s1vPFkyUFDIhFvjf6/view?usp=sharing"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/> </a>
 </p>
 
 <br>
@@ -83,8 +83,6 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-## 👨 Get In Touch
 
 
 
