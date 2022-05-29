@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img width="100" height="100" src="https://avatars.githubusercontent.com/u/44539099?v=4">
+  <img width="120" height="120" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
 <p align="center">
   <a href="https://www.facebook.com/abubakkar32/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/facebook-org.png" width="23px"/> </a>
