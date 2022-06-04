@@ -39,7 +39,7 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 ### 🎈 &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/abubakkar32">
-  <img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dark">
+  <img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula">
 </a>
 </p>
 
