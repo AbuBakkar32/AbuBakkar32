@@ -53,7 +53,7 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  <img src="https://profile-counter.glitch.me/AbuBakkar32/count.svg" />
 </p>
 
 <!-- <p align="center">
