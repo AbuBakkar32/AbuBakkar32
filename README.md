@@ -37,12 +37,21 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 <br>
 
 ### 🎈 &nbsp;GitHub Stats
-<p align="center">
-<a href="https://github.com/abubakkar32">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar32&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar32&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula"></td>
+  </tr>
+</table>
+
+<!-- <p align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar32&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
   <img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula">
 </a>
-</p>
+</p> -->
 
 ### 🛠 &nbsp;Languages and Tools :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
