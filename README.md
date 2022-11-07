@@ -4,7 +4,6 @@
 <br>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AbuBakkar32&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
   <img width="120" height="120" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
 <p align="center">
@@ -40,6 +39,7 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 ### 🎈 &nbsp;GitHub Stats
 <p align="center">
 <a href="https://github.com/abubakkar32">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar32&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
   <img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula">
 </a>
 </p>
