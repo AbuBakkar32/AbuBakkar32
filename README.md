@@ -37,11 +37,13 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 <br>
 
 ### 🎈 &nbsp;GitHub Stats
-<table cellpadding="0">
-  <tr style="padding: 0">
+<table align="center">
+  <tr>
     <!-- GitHub Stats Card -->  
-    <td valign="top">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar32&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+    <td valign="top" align="center">
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakkar32&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+  <tr>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img style="display: inline; width: 450px; margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=abubakkar32&show_icons=true&theme=dracula"></td>
   </tr>
