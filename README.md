@@ -4,6 +4,7 @@
 <br>
 
 <p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AbuBakkar32&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
   <img width="120" height="120" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
 <p align="center">
