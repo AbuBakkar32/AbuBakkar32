@@ -2,7 +2,7 @@
 <h3 align="center">Python | Java | Angular | Research Enthusiastic | Machine Learning | Deep Learning | Data Analyst | Quality Assurance-QA | Pythonist | Amazon Web Service-AWS</h3>
 
 <br>
-
+ 
 <p align="center">
   <img width="120" height="120" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
