@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/linkedin.png" width="23px"/> </a>
 <a href="https://github.com/AbuBakkar32"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/github.png" width="23px"/> </a>
 <a href="https://scholar.google.com/citations?user=AnEIQtMAAAAJ&hl"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/scholar.png" width="23px"/> </a>
-<a href="https://drive.google.com/file/d/1gRMEWxhwFaOsmMTJ9cX4V5xOa57xyUhg/view?usp=sharing"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/> </a>
+<a href="[https://drive.google.com/file/d/1gRMEWxhwFaOsmMTJ9cX4V5xOa57xyUhg/view?usp=sharing](https://drive.google.com/file/d/1Vtt4Lq5wItBlmTg3qFr92N2-R4pD9tK4/view?usp=sharing)"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/> </a>
 </p>
 
 <br>
