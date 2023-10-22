@@ -20,7 +20,7 @@ Hey there 👋
 
 I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software development with a proven record of helping Customers in IT sector, providing positive learning experiences as well as
 building and maintaining effective behavior management systems. I have excellent verbal and written communication skills. Effective Leader of team player. I am good at such as Python,
-Django, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, Java Script, AJAX, Web Scraping, Machine Learning, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have a good patience at any environment &
+Django, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, Java Script, AJAX, Web Scraping, Machine Learning, Data Analysis, Big Data, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have a good patience at any environment &
 situation. I have done my work with a responsibility and my passion. I have a patience and it keep at any hard condition [Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)
 
 <!--![]()-->
