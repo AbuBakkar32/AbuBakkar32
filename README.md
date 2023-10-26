@@ -18,15 +18,12 @@
 
 Hey there 👋
 
-I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software development with a proven record of helping Customers in IT sector, providing positive learning experiences as well as
-building and maintaining effective behavior management systems. I have excellent verbal and written communication skills. Effective Leader of team player. I am good at such as Python,
-Django, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, Java Script, AJAX, Web Scraping, Machine Learning, Data Analysis, Big Data, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have a good patience at any environment &
-situation. I have done my work with a responsibility and my passion. I have a patience and it keep at any hard condition [Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)
+I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software development with a proven record of helping Customers in IT sector, providing positive learning experiences as well as building and maintaining effective behavior management systems. I have excellent verbal and written communication skills. Effective Leader of team player. I am good at such as Python, Django, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, Java Script, AJAX, Web Scraping, Machine Learning, Data Analysis, Big Data, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have a good patience at any environment & situation. I have done my work with a responsibility and my passion. [Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)
 
 <!--![]()-->
 <br>
 
-- 🔭 I’m interested in **Java, Spring Boot, Python, Java Script, React, Angular, Deep Learning, Machine Learning, QA, Python Script and Django Web Framework**.
+- 🔭 I’m interested in **Python, Java Script, React, Angular, Deep Learning, Machine Learning, Big Data, Data Analyst, QA, Python Script and Django Web Framework**.
 - ⚡ I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
 - 🌱 Also have a opportunity to Work with <b>Data Science Team</b> as a Quality Assurance Engineer for <a target="_blank" href="https://www.capitalone.com/">Capital One Bank</a>
 - 📫 I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "nFuture Research Lab")
