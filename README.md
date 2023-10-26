@@ -28,10 +28,10 @@ situation. I have done my work with a responsibility and my passion. I have a pa
 
 - 🔭 I’m interested in **Java, Spring Boot, Python, Java Script, React, Angular, Deep Learning, Machine Learning, QA, Python Script and Django Web Framework**.
 - ⚡ I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
-- 🌱 Also Working with <a target="_blank" href="https://www.capitalone.com/"><b>American Capital One Bank</b></a> as a Quality Assurance Engineer and a Automation      Script Writer for <a target="_blank" href="https://www.capitalone.com/">Capital One</a>
+- 🌱 Also have a opportunity to Work with <a target="_blank" href="https://www.capitalone.com/"><b>American Capital One Bank</b></a> as a Quality Assurance Engineer (Data Science) for <a target="_blank" href="https://www.capitalone.com/">Capital One</a>
 - 📫 I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "nFuture Research Lab")
 - 🥩 I love Cooking and watching Science Fiction Movie.
-- 🎷 **I Love to play** : Cricket, Badminton and Pool.
+- 🎷 **I Love to play** : Cricket🏏, Badminton🏸 and Football⚽.
 <!-- 🛠 I’m working with **Apache Airflow, Google Cloud, AWS services and other cloud services**.-->
 
 <br>
