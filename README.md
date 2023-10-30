@@ -25,7 +25,7 @@ I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software developm
 
 - 🔭 I’m interested in **Python, Java Script, React, Angular, Deep Learning, Machine Learning, Big Data, Data Analyst, QA, Python Script and Django Web Framework**.
 - ⚡ I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
-- 🌱 Also have a opportunity to Work with <b>Data Science Team</b> as a Quality Assurance Engineer for <a target="_blank" href="https://www.capitalone.com/">Capital One Bank</a>
+- 🌱 Also had the opportunity to Work with <b>Data Science Team</b> as a Quality Assurance Engineer for <a target="_blank" href="https://www.capitalone.com/">Capital One Bank</a>
 - 📫 I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "nFuture Research Lab")
 - 🥩 I love Cooking and watching Science Fiction Movie.
 - 🎷 **I Love to play** : Cricket🏏, Badminton🏸 and Football⚽.
