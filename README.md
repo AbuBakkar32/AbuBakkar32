@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m <a target="_blank" href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/">Abu Bakkar Siddikk </a> </h1>
-<h3 align="center">Python | Java | Angular | Research Enthusiastic | Machine Learning | Deep Learning | Big Data | Data Analyst | Quality Assurance-QA | Amazon Web Service-AWS</h3>
+<h3 align="center">Python | Java | Angular | Research Enthusiastic | Machine Learning | Deep Learning | Bi Data | Data Analyst | Quality Assurance-QA | Amazon Web Service-AWS</h3>
 
 <br>
  
