@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m <a target="_blank" href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/">Abu Bakkar Siddikk </a> </h1>
-<h3 align="center">Python | Java | Angular | Research Enthusiastic | Machine Learning | Deep Learning | Big Data | Data Analyst | Quality Assurance-QA | Amazon Web Service-AWS</h3>
+<h3 align="center">Python | Java | Angular | Test Engineering | Machine Learning | Deep Learning | Big Data | Data Analyst | Quality Assurance-QA | Amazon Web Service-AWS</h3>
 
 <br>
  
@@ -18,14 +18,14 @@
 
 Hey there 👋
 
-I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software developer with a proven record of helping Customers in the IT sector, providing positive learning experiences as well as building and maintaining effective behavior management systems. I have excellent verbal and written communication skills. Effective Leader of team player. I am good at such as Python, Django, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, JavaScript, AJAX, Web Scraping, Machine Learning, Data Analysis, Big Data, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have good patience in any environment & situation. I have done my work with responsibility and my passion. [Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)
+I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software developer with a proven record of helping Customers in the IT sector, providing positive learning experiences, and building and maintaining effective behavior management systems. I have excellent verbal and written communication skills—effective Leader and team player. I am good at such as Python, Django, Test Engineering, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, JavaScript, AJAX, Web Scraping, Machine Learning, Data Analysis, Big Data, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have good patience in any environment & situation. I have done my work with responsibility and my passion. <!--[Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)-->
 
 <!--![]()-->
 <br>
 
-- 🔭 I’m interested in **Python, JavaScript, React, Angular, Deep Learning, Machine Learning, Big Data, Data Analyst, QA, Python Script and Django Web Framework**.
-- ⚡ I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
-- 🌱 Also had the opportunity to Work with <b>Data Science Team</b> as a Quality Assurance Engineer for <a target="_blank" href="https://www.capitalone.com/">Capital One Bank</a>
+- 🔭 I’m interested in **Python, JavaScript, Test engineering, React, Angular, Deep Learning, Machine Learning, Big Data, Data Analyst, QA, Python Script and Django Web Framework**.
+<!--- ⚡ I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>-->
+- 🌱 I had the opportunity to Work with <b>Data Science Team</b> as a Test Engineer/Quality Assurance Engineer for <a target="_blank" href="https://www.capitalone.com/">Capital One Bank</a>
 - 📫 I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "future Research Lab")
 - 🥩 I love Cooking and watching Science Fiction movies.
 - 🎷 **I Love to play** : Cricket🏏, Badminton🏸 and Football⚽.
