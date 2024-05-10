@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m <a target="_blank" href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/">Abu Bakkar Siddikk </a> </h1>
-<h3 align="center">Python | Java | Angular | Test Engineering | Machine Learning | Deep Learning | Big Data | Data Analyst | Quality Assurance-QA | Amazon Web Service-AWS</h3>
+<h3 align="center">Python | Java | Angular | Test Automation | Software Quality Assurance-SQA | Machine Learning | Deep Learning | Big Data | Data Analyst </h3>
 
 <br>
  
@@ -11,7 +11,7 @@
  <a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/linkedin.png" width="23px"/> </a>
  <a href="https://github.com/AbuBakkar32"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/github.png" width="23px"/> </a>
  <a href="https://scholar.google.com/citations?user=AnEIQtMAAAAJ&hl"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/scholar.png" width="23px"/> </a>
- <a href="https://drive.google.com/file/d/1nCAGPKTQfTXP6H-JaL8ue0jsXr0OOGXU/view"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/></a>
+ <a href="https://drive.google.com/file/d/1WnJoY-oRPCF8olq2jj3CFoOUHW9O-Rw5/view?usp=sharing"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/></a>
 </p>
 
 <br>
