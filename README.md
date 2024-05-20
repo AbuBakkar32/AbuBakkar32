@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 H, I’m <a target="_blank" href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/">Abu Bakkar Siddikk </a> </h1>
+<h1 align="center"> 👋 Hi, I’m <a target="_blank" href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/">Abu Bakkar Siddikk </a> </h1>
 <h3 align="center">Python | Java | Angular | Test Automation | Software Quality Assurance-SQA | Machine Learning | Deep Learning | Big Data | Data Analyst </h3>
 
 <br>
