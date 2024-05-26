@@ -18,12 +18,12 @@
 
 Hey there 👋
 
-I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software developer with a proven record of helping Customers in the IT sector, providing positive learning experiences, and building and maintaining effective behavior management systems. I have excellent verbal and written communication skills—effective Leader and team player. I am good at such as Python, Django, Test Engineering, REST-APIs (DRF), Java, Spring Boot, QA, Angular, React, JavaScript, AJAX, Web Scraping, Machine Learning, Data Analysis, Big Data, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP. I have good patience in any environment & situation. I have done my work with responsibility and my passion. <!--[Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)-->
+I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software developer with a proven record of helping Customers in the IT sector, providing positive learning experiences, and building and maintaining effective behavior management systems. I have excellent verbal and written communication skills—effective Leader and team player. <!-- I am good at such as Python, Django, Test Engineering, REST-APIs (DRF), Java, Spring Boot, SQA, Angular, React, JavaScript, AJAX, Web Scraping, Machine Learning, Data Analysis, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP--> I have good patience in any environment & situation. I have done my work with responsibility and my passion. <!--[Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)-->
 
 <!--![]()-->
 <br>
 
-- 🔭 I’m interested in **Python, JavaScript, Test engineering, Software Quality Assurance-SQA, React, Angular, Deep Learning, Machine Learning, Big Data, Data Analyst, QA, Python Script and Django Web Framework**.
+- 🔭 I’m interested in **Python, JavaScript, Test Engineering, Software Quality Assurance-SQA, React, Angular, Deep Learning, Machine Learning, Big Data, Data Analyst, Python Script, and Django Web Framework**.
 - ⚡ I have worked <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a Software Engineer at <a target="_blank" href="https://www.automationservicesbd.com/">Automation Services Limited</a>
 - 🌱 I had the opportunity to Work with <b>Data Science Team</b> as a Test Engineer/Quality Assurance Engineer for <a target="_blank" href="https://www.capitalone.com/">Capital One Bank</a>
 - 📫 I’m working as a Junior Researcher in  [nFuture Research Lab](https://www.nfuture.org "future Research Lab")
@@ -64,7 +64,7 @@ I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software develope
 ![Django](https://img.shields.io/badge/Django-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 <!-- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) -->
 ![Java](https://img.shields.io/badge/Java-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -77,15 +77,15 @@ I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software develope
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<!--![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)-->
 
 ### 💻 &nbsp;IDE Use :
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+<!---![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)-->
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 🍗 &nbsp;ML/DL
@@ -94,14 +94,16 @@ I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software develope
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23D00000.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+<!--- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)-->
 
 ### 🤖 &nbsp;Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<!--- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)-->
 
 
 
