@@ -14,9 +14,8 @@
 <!--  <a href="https://drive.google.com/file/d/1WnJoY-oRPCF8olq2jj3CFoOUHW9O-Rw5/view?usp=sharing"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/></a> -->
 </p>
 
-<br>
+<be>
 
-Hey there 👋
 
 I'm Enthusiastic. Effective. Passionate and Fast Learner. As a Software developer with a proven record of helping Customers in the IT sector, providing positive learning experiences, and building and maintaining effective behavior management systems. I have excellent verbal and written communication skills—effective Leader and team player. <!-- I am good at such as Python, Django, Test Engineering, REST-APIs (DRF), Java, Spring Boot, SQA, Angular, React, JavaScript, AJAX, Web Scraping, Machine Learning, Data Analysis, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Automation, Database and OOP--> I have good patience in any environment & situation. I have done my work with responsibility and my passion. <!--[Check out my LinkedIn Profile.](https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/)-->
 
