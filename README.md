@@ -7,9 +7,9 @@
   <img width="120" height="120" src="https://avatars.githubusercontent.com/u/44539099?v=4">
 </p>
 <p align="center">
- <a href="https://www.facebook.com/abubakkarswe/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/facebook-org.png" width="23px"/> </a>
+<!-- <a href="https://www.facebook.com/abubakkarswe/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/facebook-org.png" width="23px"/> </a>
 <!--  <a href="https://www.linkedin.com/in/abu-bakkar-siddik-17b860196/"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/linkedin.png" width="23px"/> </a> -->
- <a href="https://github.com/AbuBakkar32"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/github.png" width="23px"/> </a>
+<!-- <a href="https://github.com/AbuBakkar32"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/github.png" width="23px"/> </a>
  <a href="https://scholar.google.com/citations?user=AnEIQtMAAAAJ&hl"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/scholar.png" width="23px"/> </a>
 <!--  <a href="https://drive.google.com/file/d/1WnJoY-oRPCF8olq2jj3CFoOUHW9O-Rw5/view?usp=sharing"> <img src="https://github.com/AbuBakkar32/AbuBakkar32/blob/main/icons/cv.png" width="23px"/></a> -->
 </p>
